@@ -1,1 +1,1 @@
-# PyTorchDeepLearning
+# MNIST WITH NUMPY ONLY
